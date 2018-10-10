@@ -32,6 +32,7 @@ and follow the instructions below:
 
 * With your server running, visit the site: `http://localhost:8000`. You can now see the live site.
 
+See the project live at: https://beastmaster07.github.io/restaurant-reviews-app-stage-1
 
 
 Copyright (c) 2018 Aman Agarwal
