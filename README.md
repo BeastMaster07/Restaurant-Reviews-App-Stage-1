@@ -5,7 +5,6 @@
 * [Overview](#overview)
 * [Specification](#Specification)
 * [How to run the project](#how-to-run-the-project)
-* [Credits & Tools Used](#credits-&-tools-used)
 
 
 
@@ -23,7 +22,7 @@ I was provided with the code for a restaurant reviews website. This code had a l
 
 To run the project, download or clone the repository in your computer:
 
-`$ git clone https://github.com/dimikara/Restaurant-Reviews-App-Stage-1.git`
+`$ git clone https://github.com/BeastMaster07/restaurant-reviews-app-stage-1.git`
 
 and follow the instructions below:
 
@@ -33,16 +32,6 @@ and follow the instructions below:
 
 * With your server running, visit the site: `http://localhost:8000`. You can now see the live site.
 
-
-## Credits & Tools Used
-
-* Starter code by [**Udacity**](https://github.com/udacity/mws-restaurant-stage-1).
-* [**Leafletjs**](https://leafletjs.com/), an open-source JavaScript library
-for mobile-friendly interactive maps, & [**Mapbox**](https://www.mapbox.com/), an open source mapping platform for custom designed maps.
-* Presentations by [**Mohammed Riaad**](https://www.youtube.com/watch?v=TxXwlOAXUko) and [**Doug Brown**](https://www.youtube.com/watch?v=92dtrNU1GQc).
-* [**Lighthouse**](https://developers.google.com/web/tools/lighthouse/), an open-source ([GitHub repository](https://github.com/GoogleChrome/lighthouse)), automated tool for improving the quality of web pages. I used it as an index mainly for Accessibility issues.
-* [**Normalize.css**](https://necolas.github.io/normalize.css/), a modern, HTML5-ready alternative to CSS resets.
-* Favicon created via [Favicon & App Icon Generator](https://www.favicon-generator.org/).
 
 
 Copyright (c) 2018 Aman Agarwal
